@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">API with Auth</string>
+    <string name="error_message">Retry</string>
+    <string name="meow">Meow</string>
+    <string name="cane">immagine di un cane</string>
+    <string name="example">Example</string>
+    <string name="dogs">Dogs</string>
+    <string name="correct_key">Correct Key</string>
+    <string name="wrong_key">Wrong Key</string>
+    <string name="wof_wof">Wof Wof!</string>
+</resources>
